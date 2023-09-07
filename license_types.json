@@ -1,0 +1,14 @@
+[
+    {
+        "type": "server",
+        "time_limit": "permanent"
+    },
+    {
+        "type": "user",
+        "time_limit": "permanent"
+    },
+    {
+        "type": "subscription",
+        "time_limit": "monthly"
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "botprotect": {
+        "price": {
+            "server": {
+                "USD": 5,
+                "EUR": 5,
+                "HUF": 2000
+            },
+            "user": {
+                "USD": 15,
+                "EUR": 15,
+                "HUF": 5000
+            },
+            "subscription": {
+                "USD": 2,
+                "EUR": 2,
+                "HUF": 1000
+            }
+        },
+        "request_types": {
+            "license_check": "LICENSE_CHECK",
+            "get_script": "BOTPROTECT",
+            "do_captcha": "DO_CAPTCHA",
+            "get_captcha": "GET_CAPTCHA"
+        }
+    },
+    "barb_finder": {
+        "price": {
+            "server": {
+                "USD": 5,
+                "EUR": 5,
+                "HUF": 2000
+            },
+            "user": {
+                "USD": 15,
+                "EUR": 15,
+                "HUF": 5000
+            },
+            "subscription": {
+                "USD": 2,
+                "EUR": 2,
+                "HUF": 1000
+            }
+        },
+        "request_types": {
+            "license_check": "LICENSE_CHECK",
+            "get_script": "BARB_FINDER"
+        }
+    }
+}

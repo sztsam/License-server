@@ -1,0 +1,22 @@
+[
+    {
+        "market": "hu",
+        "link": ".klanhaboru.hu",
+        "twstat": "https://hu.twstats.com/"
+    },
+    {
+        "market": "sk",
+        "link": ".divoke-kmene.sk",
+        "twstat": "https://sk.twstats.com/"
+    },
+    {
+        "market": "fr",
+        "link": ".guerretribale.fr",
+        "twstat": "https://fr.twstats.com/"
+    },
+    {
+        "market": "es",
+        "link": ".guerrastribales.es",
+        "twstat": "https://es.twstats.com/"
+    }
+]
